@@ -7,7 +7,7 @@ export default async function Navbar() {
   return (
     <nav className="navbar">
       <Link href="/" className="nav-brand">
-        AuraStore.
+        KikStore.
       </Link>
       <div className="nav-links">
         <Link href="/products" className="nav-link">Products</Link>
